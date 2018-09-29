@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/HaoZhiPro.iml" filepath="$PROJECT_DIR$/HaoZhiPro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hz-admin/hz-admin.iml" filepath="$PROJECT_DIR$/hz-admin/hz-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hz-api/hz-api.iml" filepath="$PROJECT_DIR$/hz-api/hz-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hz-common/hz-common.iml" filepath="$PROJECT_DIR$/hz-common/hz-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hz-front/hz-front.iml" filepath="$PROJECT_DIR$/hz-front/hz-front.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hz-generator/hz-generator.iml" filepath="$PROJECT_DIR$/hz-generator/hz-generator.iml" />
+    </modules>
+  </component>
+</project>

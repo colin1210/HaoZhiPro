@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="hz-admin" />
+        <module name="hz-api" />
+        <module name="hz-common" />
+        <module name="hz-front" />
+        <module name="hz-generator" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="HaoZhiPro" target="1.8" />
+      <module name="hz-admin" target="1.8" />
+      <module name="hz-api" target="1.5" />
+      <module name="hz-common" target="1.8" />
+      <module name="hz-front" target="1.8" />
+      <module name="hz-generator" target="1.8" />
+      <module name="hzadmin" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
